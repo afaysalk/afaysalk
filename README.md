@@ -7,7 +7,7 @@
 
 - 🔭 &nbsp; &nbsp;I love to mix my love of art and coding in unique ways
 - 🌱 &nbsp; &nbsp;I’m currently learning Svelte, Go, Ruby on Rails and more
-- 👯 &nbsp; &nbsp;I’m love to collaborate on building cool and interesting projects
+- 👯 &nbsp; &nbsp;I love to collaborate on building cool and interesting projects
 - ⚡ &nbsp; &nbsp;Fun fact: I am building an Open Source webcomic
 
 <br />
